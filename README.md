@@ -15,19 +15,6 @@ The dashboard combines predictive modelling with business decision rules to reco
 - **DAX rules engine** - a prescriptive layer built in DAX that translates model outputs and segments into recommended actions
 - **Voucher ROI analysis** - evaluates the return on investment of voucher/discount campaigns across customer segments
 
-## Screenshots
-
-![Executive Overview](screenshots/01-overview.png)
-
-![Churn Prediction & RFM](screenshots/02-churn-rfm.png)
-
-![Voucher ROI Analysis](screenshots/03-voucher-roi.png)
-
-![Category & Margin Analysis](screenshots/04-category-margin.png)
-
-![Geographic Revenue Breakdown](screenshots/05-revenue-by-state.png)
-
-![Customer Journey Funnel](screenshots/06-customer-funnel.png)
 
 ## Tech Stack
 
